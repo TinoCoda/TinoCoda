@@ -36,7 +36,7 @@ I'm a passionate developer with a keen interest in web development and workflow 
 
 Here are a few of my notable projects:
 
-- [Project 1](https://github.com/TinoCoda/mern-project): MERN Project showing a Web App on which an addmin can add and edit products.
+- [Project 1](https://github.com/TinoCoda/mern-project): MERN Project showing a Web App on which an addmin can add and edit products. The project has been deployed [here](https://mern-project-i0fq.onrender.com/)
 - [Project 2](https://github.com/TinoCoda/project2): Brief description of Project 2.
 - [Project 3](https://github.com/TinoCoda/project3): Brief description of Project 3.
 
